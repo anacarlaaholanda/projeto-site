@@ -1,2 +1,3 @@
-# projeto-site
- Projeto de um site criado durante o curso de Git e GitHub
+# Projeto de Site para a aula de Engenharia de Software
+
+Passo a passo de um *site* voltado para a aula de **Engenharia de Software**.
